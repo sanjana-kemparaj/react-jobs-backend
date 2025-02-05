@@ -1,0 +1,21 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+
+# MacOS specific files
+.DS_Store
+
+# Optional: Build files (e.g., if you're using TypeScript or bundling)
+dist/
+build/
+
+# Optional: IDE files (if you're using VSCode, WebStorm, etc.)
+.vscode/
+.idea/
